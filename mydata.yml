@@ -1,0 +1,6 @@
+train: bdd100/split_data/train/images
+val: bdd100/split_data/valid/images
+
+nc: 10
+
+names: ['car', 'bus', 'person', 'bike', 'truck', 'motor', 'train', 'rider', 'traffic sign', 'traffic light']
