@@ -42,6 +42,6 @@ def main(path, dstDir):
 
 
 if __name__ == '__main__':
-    srcDir = './bdd100/labels-mini-xml'
-    dstDir = './bdd100/labels-mini-txt'
+    srcDir = 'bdd100/labels-xml'
+    dstDir = 'bdd100/labels-mini-txt'
     main(srcDir, dstDir)

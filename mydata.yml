@@ -1,5 +1,5 @@
-train: bdd100/split_data/train/images
-val: bdd100/split_data/valid/images
+train: /Users/vaibhavmandavkar/Downloads/yolov8-main 2/bdd100/split_data/train/images
+val: /Users/vaibhavmandavkar/Downloads/yolov8-main 2/bdd100/split_data/valid/images
 
 nc: 10
 

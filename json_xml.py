@@ -176,6 +176,6 @@ def main(srcDir, dstDir):
  
  
 if __name__ == '__main__':
-    srcDir = './bdd100/labels-mini'
-    dstDir = './bdd100/labels-mini-xml'
+    srcDir = 'bdd100/labels'
+    dstDir = 'bdd100/labels-xml'
     main(srcDir, dstDir)
